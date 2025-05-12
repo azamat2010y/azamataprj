@@ -1,1 +1,1 @@
-# azamataprj
+# ethan-portfolio-starter
